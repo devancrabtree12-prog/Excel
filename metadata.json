@@ -1,0 +1,6 @@
+{
+  "name": "QuantGrid",
+  "description": "Enterprise Spreadsheet Architecture & Intelligent Workbook Generator with Adaptive TacticalGrid Defense Operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
